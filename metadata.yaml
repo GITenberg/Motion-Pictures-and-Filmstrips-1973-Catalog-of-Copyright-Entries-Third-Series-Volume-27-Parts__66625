@@ -1,0 +1,30 @@
+_repo: Motion-Pictures-and-Filmstrips-1973-Catalog-of-Copyright-Entries-Third-Series-Volume-27-Parts__66625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - Library of Congress. Register of Copyrights
+    - Congress, U. S. Copyright Office Library of
+    - Office, U.S. Copyright
+    - United States. Copyright Office
+    - Congress, Copyright Office Library of
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
+description: ''
+gutenberg_issued: '2021-10-28'
+identifiers:
+  gutenberg: '66625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion pictures -- Catalogs'
+- !lcc 'Z'
+- !lcc 'PN'
+- GITenberg
+title: "Motion Pictures and Filmstrips, 1973: Catalog of Copyright Entries\r\nThird\
+  \ Series Volume 27, Parts 12-13"
+url: http://www.gutenberg.org/ebooks/66625
